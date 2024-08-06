@@ -21,8 +21,8 @@ See [[rouwette, 2020|project description]]
 ## Goals
 The goals and objectives of the project are represented in the following two diagrams.
 <img src="/images/Captura de pantalla 2024-08-05 a las 18.00.28.png" width="350">
-![[Captura de pantalla 2024-08-05 a las 18.00.28.png|350]]
-## ![[Captura de pantalla 2024-08-05 a las 18.01.03.png|400]]
+<img src="/images/Captura de pantalla 2024-08-05 a las 18.01.03.png" width="400">
+![[Captura de pantalla 2024-08-05 a las 18.01.03.png|400]]
 
 ## Activities
 1. The following figure represents the general flow of activities: ![[Captura de pantalla 2024-08-05 a las 18.32.52.png]]
