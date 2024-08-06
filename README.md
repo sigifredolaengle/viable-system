@@ -7,7 +7,7 @@ Our investigation into the system dynamics methodology and viability theory in o
 
 ![stack Overflow](http://lmsotfy.com/so.png)
 
-![Optional Text](/images/1-s2.0-S0377042716302850-main 2.jpg)
+![Optional Text](https://github.com/sigifredolaengle/viable-system/blob/main/images/1-s2.0-S0377042716302850-main%202.jpg)
 
 The figure above shows a summary scheme of our project: a control dashboard containing four parts. The first part supports the qualitative causal analysis of the problem (CM - Causal Model). The second is a quantitative dynamic model that evaluates the variables and their relationships over time (SDM - System Dynamics Model). The third is an equilibrium analysis of the variables that can be optimized (EQ - equilibrium). Finally, the most innovative is the analysis of the system's viability (VIAB). The viability allows us to answer questions such as where we should start to ensure that the variables remain in a given constraint sector, whether we can reach any desired goal from the point where we are, can we reach any desired goal from the point where we are, can we reach any desired goal from the point where we are?
 
