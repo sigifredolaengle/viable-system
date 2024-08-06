@@ -29,9 +29,9 @@ The goals and objectives of the project are represented in the following two dia
 
 2. We describe each main activities as follow. The activity  **ellicitation models** is the most critical. In this phase, we ellicitate a **best** model representing the real behaviour and complexity of the system. This activity was described previously and here we show a summary:
 <img src="/images/Captura de pantalla 2024-08-05 a las 18.37.05.png">
-4. The second activity consists in implement the viability model. It is executed by the **viability computing team** that is composed by three integrants as show in the following figure.
+3. The second activity consists in implement the viability model. It is executed by the **viability computing team** that is composed by three integrants as show in the following figure.
    <img src="Captura de pantalla 2024-08-05 a las 18.38.39.png" width="500">
-    ![[Captura de pantalla 2024-08-05 a las 18.38.39.png|500]]
+    
 ## Deadlines and resources
 1. The following diagrams representas the project teams. The first one is the general tema, and the second is a typical ellicitation team.![[Captura de pantalla 2024-08-06 a las 11.15.18.png]]![[Captura de pantalla 2024-08-06 a las 11.15.40.png|500]]
 2. The activities description are in [[rouwette, 2020|project description]]. 
