@@ -7,8 +7,6 @@ Our investigation into the system dynamics methodology and viability theory in o
 
 ![Optional Text](/images/1-s2.0-S0377042716302850-main%202.jpg)
 
-<img src="/images/1-s2.0-S0377042716302850-main%202.jpg" width="250">
-
 The figure above shows a summary scheme of our project: a control dashboard containing four parts. The first part supports the qualitative causal analysis of the problem (CM - Causal Model). The second is a quantitative dynamic model that evaluates the variables and their relationships over time (SDM - System Dynamics Model). The third is an equilibrium analysis of the variables that can be optimized (EQ - equilibrium). Finally, the most innovative is the analysis of the system's viability (VIAB). The viability allows us to answer questions such as where we should start to ensure that the variables remain in a given constraint sector, whether we can reach any desired goal from the point where we are, can we reach any desired goal from the point where we are, can we reach any desired goal from the point where we are?
 
 In doing this work, we found that although system dynamics has numerous applications in production and project management, viability theory is still in its infancy in management. Moreover, viability theory can be seen as a natural and necessary extension of the analysis of optimality and equilibria of dynamical systems and accurately addresses notions such as viability, invariance, and resilience.
@@ -22,6 +20,7 @@ Our conclusion is that the combined use of both approaches not only allows us to
 See [[rouwette, 2020|project description]]
 ## Goals
 The goals and objectives of the project are represented in the following two diagrams.
+<img src="/images/Captura de pantalla 2024-08-05 a las 18.00.28.png" width="350">
 ![[Captura de pantalla 2024-08-05 a las 18.00.28.png|350]]
 ## ![[Captura de pantalla 2024-08-05 a las 18.01.03.png|400]]
 
