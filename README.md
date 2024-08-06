@@ -38,7 +38,9 @@ The goals and objectives of the project are represented in the following two dia
     
 ## Deadlines and resources
 1. The following diagrams representas the project teams. The first one is the general tema, and the second is a typical ellicitation team.
+   
    <img src="/images/Captura de pantalla 2024-08-06 a las 11.15.18.png" width="500">
+   
    <img src="/images/Captura de pantalla 2024-08-06 a las 11.15.40.png" width="500">
 2. The activities description are in [[rouwette, 2020|project description]]. 
 ## A Main results of viability theory
