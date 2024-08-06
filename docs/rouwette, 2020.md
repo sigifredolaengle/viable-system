@@ -8,12 +8,17 @@
 1. System dynamics is most easily characterized by its emphasis on two ideas: (a) the importance of closed loops of information and action for social systems, i.e., as information feedback systems, and (b) the need to use formal models to study them.
 2. A causal loop diagram is composed of three main elements: variables, relationships, and feedback loops. These relationships can be either positive or negative, indicating whether the variables change in the same or opposite directions. An example is provided below for clarity.![[Captura de pantalla 2024-07-23 a las 10.02.27 1.png|500]]
 3. The second important idea in system dynamics is that formal models are necessary to understand the consequences of system structure. Since system dynamics models contain many (often nonlinear) relations and feedback loops, predicting their behaviour with mathematical simulation becomes challenging and easier.
-4. Two categories of variables are distinguished: stocks and flows. Stocks are entities existing at a particular point in time, such as supplies, personnel, or water in a reservoir. Flows are entities measured over a time period, such as deliveries, recruitments, or water inflow. Relationships are separated into physical flows and information flows. If we capture differences between stocks and flows and information and physical flows in a diagram, a stock and flow diagram results.![[Captura de pantalla 2024-07-23 a las 10.03.33 1.png|500]]v
+4. Two categories of variables are distinguished: stocks and flows. Stocks are entities existing at a particular point in time, such as supplies, personnel, or water in a reservoir. Flows are entities measured over a time period, such as deliveries, recruitments, or water inflow. Relationships are separated into physical flows and information flows. If we capture differences between stocks and flows and information and physical flows in a diagram, a stock and flow diagram results.
+   
+<img src="/images/Captura de pantalla 2024-07-23 a las 10.03.33 1.png" width="500">
+   ![[Captura de pantalla 2024-07-23 a las 10.03.33 1.png|500]]v
 
 ### group model building approaches
 1. Several different participative model-building formats can be identified, namely, the reference group approach (Randers, 1977; Stenberg, 1980), the stepwise approach (Wolstenholme, 1992), the Strategic Forum (Richmond, 1997), modelling as learning (Lane, 1992), strategy dynamics (Warren 2000, 2005), and Hines’“standard method”(Otto and Struben, 2004). 
 2. Group model building is generally conducted with a group of at least 6 and up to 15 people. The group is expertly guided by at least two persons: a facilitator and a modeller/recorder. The group is seated in a semicircle in front of a whiteboard and/or projection screen, which serves as a so-called group memory. A projection screen is typically used when a model is constructed with the aid of system dynamics modelling software with a graphic interface (e.g., Vensim, Powersim, Ithink).
-3. Typical room layout for group model building with participants seated in a semicircle, whiteboard and facilitator in front, and computer and overhead projector (adapted from Andersen and Richardson, 1997). ![[notas generales 14.jpeg|400]]
+3. Typical room layout for group model building with participants seated in a semicircle, whiteboard and facilitator in front, and computer and overhead projector (adapted from Andersen and Richardson, 1997).
+  <img src="/images/notas generales 14.jpeg" width="500">
+   ![[notas generales 14.jpeg|400]]
 4. The gatekeeper, who is generally also a member of the group, is the liaison between the organization and the modelling team. The gatekeeper is the contact between both parties and has an important role in deciding which participants to involve in the sessions.
 5. In addition to the gatekeeper, facilitator, and recorder, two other roles are significant in a modeling session (Richardson and Andersen 1995): the process and the modeling coach. The process coach, serving as an observer, focuses on the group process, providing valuable insights.
 6. In principle, the group follows the normal steps in constructing a system dynamics model. This means that the first step is the identification of the strategic issue to be discussed, preferably in the form of a so-called reference mode of behaviour, i.e., a time series derived from the system to be modelled that indicates a (historical) undesirable development over time.
@@ -25,6 +30,8 @@
 3. At the group level, objectives refer to mental model alignment (Huz et al., 1997) and fostering consensus (Rohrbaugh, 1992; Vennix et al., 1993; Winch, 1993).
 4. At the organizational level, goals have been discussed as system process change (are things done differently) and system outcome change(are customers impacted differently) (see Cavaleri and Sterman 1997). It's important to note that in many cases, system changes are the result of changes in attitude and behavior of participants in the system, underscoring their influence on the system.
 5. Objectives of group model building (cfr. Rouwette and Vennix, 2006):
+
+   <img src="/images/Captura de pantalla 2024-08-05 a las 18.29.57.png" width="400">
 ![[Captura de pantalla 2024-08-05 a las 18.29.57.png|400]]
 ### designing group model building
 1. The first concerns the suitability of system dynamics for the problem at hand. Systedynamicists generally say that a problem needs to be dynamically complex in order to be suitable to model it through system dynamics.
@@ -33,7 +40,9 @@
 
 ### conduction group model building
 1. Guiding principles capture basic ideas in the interaction with clients, such as break task/group structure several times each day, clarify group products, maintain visual consistency, and avoid talking heads. Scripts are more concrete instances of these principles and refer to small elements of the interaction process (Andersen and Richardson 1997; Luna-Reyeset al.2006; Hovmand et al.2012; https://en.wikibooks.org/wiki/Scriptapedia). 
-2. The following table shows scripts described in Andersen and Richardson’s(1997) original paper (see the following figure).![[Captura de pantalla 2024-08-05 a las 18.41.27.png]]
+2. The following table shows scripts described in Andersen and Richardson’s(1997) original paper (see the following figure).
+<img src="/images/Captura de pantalla 2024-08-05 a las 18.41.27.png" width="400">
+   ![[Captura de pantalla 2024-08-05 a las 18.41.27.png]]
 ## important references
 
 1. Ackoff RA (1979) The future of operational research is past. J Oper Res Soc 30(2):93–104
