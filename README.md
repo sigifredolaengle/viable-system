@@ -22,10 +22,10 @@ See [[rouwette, 2020|project description]]
 The goals and objectives of the project are represented in the following two diagrams.
 <img src="/images/Captura de pantalla 2024-08-05 a las 18.00.28.png" width="350">
 <img src="/images/Captura de pantalla 2024-08-05 a las 18.01.03.png" width="400">
-![[Captura de pantalla 2024-08-05 a las 18.01.03.png|400]]
 
 ## Activities
-1. The following figure represents the general flow of activities: ![[Captura de pantalla 2024-08-05 a las 18.32.52.png]]
+1. The following figure represents the general flow of activities: <img src="/images/Captura de pantalla 2024-08-05 a las 18.32.52" width="400">
+![[Captura de pantalla 2024-08-05 a las 18.32.52.png]]
 2. We describe each main activities as follow. The activity  **ellicitation models** is the most critical. In this phase, we ellicitate a **best** model representing the real behaviour and complexity of the system. This activity was described previously and here we show a summary: ![[Captura de pantalla 2024-08-05 a las 18.37.05.png]]
 3. The second activity consists in implement the viability model. It is executed by the **viability computing team** that is composed by three integrants as show in the following figure. ![[Captura de pantalla 2024-08-05 a las 18.38.39.png|500]]
 ## Deadlines and resources
