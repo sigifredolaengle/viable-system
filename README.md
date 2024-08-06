@@ -33,8 +33,12 @@ The goals and objectives of the project are represented in the following two dia
 <img src="/images/Captura de pantalla 2024-08-05 a las 18.38.39.png" width="500">
     
 ## Deadlines and resources
-1. The following diagrams representas the project teams. The first one is the general tema, and the second is a typical ellicitation team.![[Captura de pantalla 2024-08-06 a las 11.15.18.png]]![[Captura de pantalla 2024-08-06 a las 11.15.40.png|500]]
-2. The activities description are in [[rouwette, 2020|project description]]. 
+1. The following diagrams representas the project teams. The first one is the general tema, and the second is a typical ellicitation team.
+   <img src="/images/Captura de pantalla 2024-08-06 a las 11.15.18.png">
+   <img src="/images/Captura de pantalla 2024-08-06 a las 11.15.40.png" width="500">
+   ![[Captura de pantalla 2024-08-06 a las 11.15.18.png]]
+   ![[Captura de pantalla 2024-08-06 a las 11.15.40.png|500]]
+3. The activities description are in [[rouwette, 2020|project description]]. 
 ## A Main results of viability theory
 See document [[2 viability and level set representation|viable theory results]].
 ## B Pseudocode of the viability kernel computation
