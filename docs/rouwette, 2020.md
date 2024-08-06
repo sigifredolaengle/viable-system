@@ -41,7 +41,7 @@
 ### conduction group model building
 1. Guiding principles capture basic ideas in the interaction with clients, such as break task/group structure several times each day, clarify group products, maintain visual consistency, and avoid talking heads. Scripts are more concrete instances of these principles and refer to small elements of the interaction process (Andersen and Richardson 1997; Luna-Reyeset al.2006; Hovmand et al.2012; https://en.wikibooks.org/wiki/Scriptapedia). 
 2. The following table shows scripts described in Andersen and Richardson’s(1997) original paper (see the following figure).
-<img src="/images/Captura de pantalla 2024-08-05 a las 18.41.27.png" width="400">
+<img src="/images/Captura de pantalla 2024-08-05 a las 18.41.27.png">
    ![[Captura de pantalla 2024-08-05 a las 18.41.27.png]]
 ## important references
 
