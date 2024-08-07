@@ -17,7 +17,7 @@ Our conclusion is that the combined use of both approaches not only allows us to
 2. Dangerfield, Brian (Ed.) (2020) System Dynamics: *Theory and Applications*. Springer New York, NY, doi:10.1007/978-1-4939-8790-0.
 
 ## Project description
-See [[rouwette, 2020|project description]]
+See [project description](docs/rouwette,%202020).
 ## Goals
 The goals and objectives of the project are represented in the following two diagrams.
 
@@ -42,12 +42,12 @@ The goals and objectives of the project are represented in the following two dia
    <img src="/images/Captura de pantalla 2024-08-06 a las 11.15.18.png" width="500">
    
    <img src="/images/Captura de pantalla 2024-08-06 a las 11.15.40.png" width="500">
-2. The activities description are in [[rouwette, 2020|project description]]. 
+2. The activities description are in [project description](docs/rouwette,%202020). 
 ## A Main results of viability theory
 See document [viable theory results](/docs/2%20viability%20and%20level%20set%20representation.md)
 
-[[2 viability and level set representation|viable theory results]].
+[viable theory results](/docs/2%20viability%20and%20level%20set%20representation).
 ## B Pseudocode of the viability kernel computation
 See summary of [viability kernel algorithms](https://github.com/sigifredolaengle/viability-algorithms-biblio/tree/main?tab=readme-ov-file) in GitHub.
 ## C Pseudocode of simulation annealing
-See document [[math pseudocoding|simulation annealing]]. 
+See document [simulation annealing](/docs/math%20pseudocoding). 
