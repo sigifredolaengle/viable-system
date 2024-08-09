@@ -44,8 +44,10 @@ The goals and objectives of the project are represented in the following two dia
    <img src="/images/Captura de pantalla 2024-08-06 a las 11.15.40.png" width="500">
 2. The activities description are in [project description](docs/rouwette,%202020.md). 
 ## A Main results of viability theory
-See document [viable theory results](/docs/2%20viability%20and%20level%20set%20representation.md).
+See document [viability theory results](/docs/2%20viability%20and%20level%20set%20representation.md).
 ## B Pseudocode of the viability kernel computation
 See summary of [viability kernel algorithms](https://github.com/sigifredolaengle/viability-algorithms-biblio/tree/main?tab=readme-ov-file) in GitHub.
-## C Pseudocode of simulation annealing
+## C Computing the viability kernel by simmulation annealing 
+See document 
+## D Pseudocode of general simulation annealing
 See document [simulation annealing](/docs/math%20pseudocoding.md). 
