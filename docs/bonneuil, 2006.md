@@ -3,7 +3,7 @@
 ---
 In all the article we consider $\mathcal{H}$ an Euclidean space with inner product $\langle\cdot |\cdot\rangle$ and induced norm $\|\cdot\|$. Let $T\in\mathbb{R}_{++}$, define the set-valued mapping as $\varphi$ $\varphi:\mathcal{H}\rightarrow 2^{\mathcal{H}}$,  we say that the function $x:[0,T]\rightarrow\mathcal{H}$ is a solution of the differential inclusion $\dot{x}\in\varphi x$ if $x$ is absolutely continuous and $\dot{x}\in\varphi x$. Let $\epsilon>0$, $\overline{B}_{\epsilon}(0)$ denotes the closed ball in $\mathcal{H}$ with centre $0$ and radius $\epsilon$. We say that a set-valued mapping is *upper-semi continuous* (usc) if
 $$(\forall u\in\mathcal{H})(\forall\epsilon>0)(\exists\delta>0)(\forall v\in \overline{B}_{\delta}(0))~\varphi v\subset\varphi u+\overline{B}_{\epsilon}(0).$$
- >[!definition] viable system
+> Viable systems
 > We say that the pair $(C, \varphi)$ is a *viable system* if for any $u\in C$ there exists a solution $x$ on $[0,T]$ of  $\dot{x}\in\varphi x$ such that $x(0)=u$ and $x(t)\in C$ for almost all $t\in[0,T]$. The following theorem, the viability theorem, characterizes the viable systems: 
 
 > [!theorem] Viability Theorem
