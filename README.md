@@ -46,7 +46,9 @@ The goals and objectives of the project are represented in the following two dia
 ## A Main results of viability theory
 See document [viability theory results](/docs/2%20viability%20and%20level%20set%20representation.md).
 ## B Pseudocode of the viability kernel computation
-See summary of [viability kernel algorithms](https://github.com/sigifredolaengle/viability-algorithms-biblio/tree/main?tab=readme-ov-file) in GitHub.
+We advanced in to researches:
+(1) A summary of the [viability kernel algorithms](https://github.com/sigifredolaengle/viability-algorithms-biblio/tree/main?tab=readme-ov-file) in GitHub.
+(2) A summary of algorith of [Bonneuil, 2006](https://noteshare.space/note/clzr1ufd02395401mwsdzeb2ha#l+ndaBaUXzYc3m0fBACxSEkCGioPLRuSwet1oEGjAF8), which we are implementing.
 ## C Computing the viability kernel by simmulation annealing 
 See document 
 ## D Pseudocode of general simulation annealing
